@@ -45,4 +45,4 @@ The app uses **PyPDF2** for PDF text extraction and **pyttsx3** for offline text
 
 ```bash
 git clone https://github.com/PareekshithSuvarna/DocAudify---PDF-text-to-audio.git
-cd pdf-to-audio-converter
+cd DocAudify---PDF-text-to-audio
