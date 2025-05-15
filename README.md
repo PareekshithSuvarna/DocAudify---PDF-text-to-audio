@@ -34,8 +34,7 @@ The app uses **PyPDF2** for PDF text extraction and **pyttsx3** for offline text
 ---
 
 ## 📸 Screenshots
-
-> *(Add screenshots here of the app interface and results)*
+give above
 
 ---
 
